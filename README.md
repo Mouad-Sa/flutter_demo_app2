@@ -60,7 +60,7 @@ This is a Flutter-based mobile application developed as part of the BDCC (Big Da
 
 ## 👨‍💻 Author
 
-**Saad El Mabrouk**  
+**Sattani mouad**  
 
 ---
 
